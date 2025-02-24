@@ -7,23 +7,16 @@
     "@mui/material": "^6.4.5",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
-    "@testing-library/react": "^16.2.0",
+    "@testing-library/react": "^14.0.0",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.7.9",
-<<<<<<< HEAD
     "firebase": "^11.3.1",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "react-router-dom": "^6.29.0",
-    "react-scripts": "^3.0.1",
-=======
-    "firebase": "^9.23.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-router-dom": "^7.2.0",
-    "react-scripts": "5.0.1",
->>>>>>> 91d697a83f3ca06da025911d6b567bbc566ca545
-    "web-vitals": "^2.1.4"
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^2.1.4",
+    "webpack": "^5.75.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -48,12 +41,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-<<<<<<< HEAD
-  },
-  "devDependencies": {
-    "webpack": "^5.98.0",
-    "webpack-cli": "^6.0.1"
-=======
->>>>>>> 91d697a83f3ca06da025911d6b567bbc566ca545
   }
 }

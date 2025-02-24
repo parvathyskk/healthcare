@@ -1,3 +1,4 @@
+import React from "react";
 export const sendMessageToChatbot = async (message) => {
     const response = await fetch("http://127.0.0.1:8000/chatbot", {
       method: "POST",
